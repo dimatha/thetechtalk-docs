@@ -1,27 +1,22 @@
 +++
 title = "About"
-description = "Hugo, the world’s fastest framework for building websites"
+description = "Hacking for fun and profit"
 type = "about"
-date = "2019-02-28"
+date = "2023-09-05"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+I'm a Linux nerd at heart. The open-source world has always fascinated me, and I find the freedom and versatility of Linux truly captivating. Whether it's setting up complex server environments or diving into the intricacies of different distributions, I can't get enough of it.
 
-Hugo makes use of a variety of open source projects including:
+One of my absolute favorite things in the tech world is Kubernetes. The way it orchestrates containers and handles scaling and load balancing is like magic to me. I've spent countless hours exploring its features, deploying applications, and managing clusters. It's the backbone of modern containerized applications, and I can't get enough of it.
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Datacenters are my playground. The thought of rows upon rows of servers humming away, connected through intricate networks, excites me. I'm always keen to optimize the infrastructure, reduce downtime, and ensure high availability. From rack layout to power distribution, I enjoy every aspect of datacenter management.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Networking is another passion of mine. Whether it's configuring routers and switches, delving into subnetting and routing protocols, or setting up VPNs and firewalls, I thrive on building and securing robust networks. The digital world relies on connectivity, and I love making sure it's fast, reliable, and secure.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+Security is paramount in everything I do. I'm constantly exploring the latest threats and vulnerabilities and finding ways to protect systems and data. From penetration testing to implementing security best practices, safeguarding the digital realm is a never-ending quest.
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+Infrastructure as Code (IaC) and GitOps are my preferred approaches to managing infrastructure. The ability to define and version infrastructure using code, combined with the GitOps philosophy of declarative, Git-centric workflows, is a game-changer. It ensures consistency, traceability, and collaboration, making operations smoother and more efficient.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+And lastly, coding, while not my primary focus, is a tool in my arsenal. I believe in automation and scripting to streamline tasks and workflows. Whether it's writing Bash scripts for Linux administration or using Python for automation, I appreciate the power of code to simplify the complex.
 
-
-
+In a world that's ever-evolving, my passion for Linux, Kubernetes, datacenters, networking, security, IaC, GitOps, and a touch of coding keeps me on the cutting edge of technology. It's not just a job; it's a way of life, and I wouldn't have it any other way.

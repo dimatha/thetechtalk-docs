@@ -7,4 +7,5 @@ link: https://github.com/zzossig/hugo-theme-zdoc
 repo: https://github.com/zzossig/hugo-theme-zdoc
 pinned: true
 thumb: feature3/css3-bare.png
+draft: true
 ---

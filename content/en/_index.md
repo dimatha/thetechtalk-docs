@@ -25,9 +25,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - HUGO
+      - The Tech Talk
     subtitle:
-      - The world’s fastest framework for building websites
+      - Hacking for fun and profit
     titleColor: 
     titleShadow: true
     titleFontSize: 44

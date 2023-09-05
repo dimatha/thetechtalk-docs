@@ -1,5 +1,5 @@
 baseURL = "https://thetechtalk.io"
-title = "Hugo Zzo Theme"
+title = "ttt"
 theme = "zzo"
 
 defaultContentLanguage = "en"
@@ -37,7 +37,7 @@ googleAnalytics = ""
 [outputs]
   home = ["HTML", "RSS", "SearchIndex"]
   section = ["HTML", "RSS", "SearchIndex"]
-  taxonomyTerm = ["HTML", "RSS", "SearchIndex"]
+  # taxonomyTerm = ["HTML", "RSS", "SearchIndex"]
   taxonomy = ["HTML", "RSS", "SearchIndex"]
 
 [outputFormats]
